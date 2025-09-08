@@ -22,3 +22,4 @@ User-Friendly Interface: Developed a web-based UI with Gradio, allowing users to
 
 📄 Project Documentation
 You can view the full project report here:
+FitMe.pdf
